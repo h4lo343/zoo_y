@@ -1,0 +1,1 @@
+export const CreateAddUserAction = (data) => {return {type:'addUser', data}}
